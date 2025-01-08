@@ -64,7 +64,7 @@ weather-dashboard/
 
 # **Output**
 ```bash
-![Result](/assets/images/Output.png)
+![Result](https://github.com/rshammad/weather-dashboard/blob/master/assets/images/Output.png)
 ```
 ## Acknowledgements
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
