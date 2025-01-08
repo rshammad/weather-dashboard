@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 class WeatherDashboard:
     def __init__(self):
-        self.api_key = os.getenv('WEATHER_API_KEY')
+        self.api_key = os.getenv('OPENWEATHER_API_KEY')
         self.bucket_name = os.getenv('AWS_BUCKET_NAME')
         self.s3_client = boto3.client('s3')
 
