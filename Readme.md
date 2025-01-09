@@ -63,8 +63,7 @@ weather-dashboard/
 2. Obtain an API key from OpenWeatherMap and set it in your environment variables.
 
 # **Output**
-```bash
 ![Result](https://github.com/rshammad/weather-dashboard/blob/master/assets/images/Output.png?raw=true)
-```
+
 ## Acknowledgements
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
